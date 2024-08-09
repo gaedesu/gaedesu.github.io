@@ -5,10 +5,6 @@
 
 
 
-# Disclaimer
-ㆍThis is a just variation for use within a private Discord, We are not created this work. informing all copyright @KageMiyaku.
-
-
 
 # 변경사항
 ㆍ1. 일부 기능 로컬 패치<br>
@@ -46,3 +42,8 @@
 </pre>
 
 ㆍ8. 원하는 다른 폰트로도 대체할 수 있다.
+
+
+
+# Disclaimer
+ㆍThis is a just variation for use within a private Discord, We are not created this work. informing all copyright @KageMiyaku.
