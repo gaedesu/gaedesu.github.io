@@ -24,6 +24,7 @@
         <a href="https://github.com/gaedesu/discord-momotalk/releases/download/real/Momotalk.theme.css">Momocord MJHS Lite</a> / 
         <a href="https://github.com/gaedesu/discord-momotalk/releases/download/real/Momotalk-DarkMode.theme.css">Momocord MJHS Dark</a>
     </center><br>
+    
 ㆍ4. ‘VENCORD’ 카테고리 내 Themes에서 선택한 테마를 활성화한다.<br>
 
 
@@ -32,13 +33,13 @@
 ㆍ6. ‘VENCORD’ 내 Vencord에서 Enable Custom CSS를 활성화한다.<br>
 ㆍ7. Quick Actions에서 Edit QuickCSS를 클릭해 이하의 구문을 삽입한다.<br>
 
->/*Change ALL Font*/
->:root {
->    --font: '경기천년제목OTF';
->}
->
->::placeholder, body, button, input, select, textarea {
->    font-family: var(--font), sans-serif;
->}
+/*Change ALL Font*/
+:root {
+    --font: '경기천년제목OTF';
+}
+
+::placeholder, body, button, input, select, textarea {
+    font-family: var(--font), sans-serif;
+}
 
 ㆍ8. 원하는 다른 폰트로도 대체할 수 있다.
