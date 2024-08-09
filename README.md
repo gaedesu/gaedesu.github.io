@@ -12,14 +12,14 @@
 
 
 # 변경사항
-ㆍ1. 일부 기능 로컬 패치
-ㆍ2. 최적화
+ㆍ1. 일부 기능 로컬 패치<br>
+ㆍ2. 최적화<br>
 
 
 # 필수설치
-ㆍ1. 작업 관리자에서 디스코드를 종료한 후, ‘Vencord’를 설치한다. 
-ㆍ2. 디스코드의 ‘사용자 설정(톱니바퀴 모양)’ 내 ‘VENCORD’ 카테고리에서 Plugins → FakeNitro와 ThemeAttributes를 활성화한다.
-ㆍ3. 원하는 색상을 선택해 활성화한다
+ㆍ1. 작업 관리자에서 디스코드를 종료한 후, ‘Vencord’를 설치한다.<br>
+ㆍ2. 디스코드의 ‘사용자 설정(톱니바퀴 모양)’ 내 ‘VENCORD’ 카테고리에서 Plugins → FakeNitro와 ThemeAttributes를 활성화한다.<br>
+ㆍ3. 원하는 색상을 선택해 활성화한다.<br>
       <center>
         <a href="https://github.com/gaedesu/discord-momotalk/releases/download/real/Momotalk.theme.css">Momocord MJHS Lite</a> / 
         <a href="https://github.com/gaedesu/discord-momotalk/releases/download/real/Momotalk-DarkMode.theme.css">Momocord MJHS Dark</a>
@@ -28,17 +28,17 @@
 
 
 # 추가 권장사항
-ㆍ5. 경기천년제목 폰트를 OTF로 설치한다
-ㆍ6. ‘VENCORD’ 내 Vencord에서 Enable Custom CSS를 활성화한다.
-ㆍ7. Quick Actions에서 Edit QuickCSS를 클릭해 이하의 구문을 삽입한다.
+ㆍ5. 경기천년제목 폰트를 OTF로 설치한다.<br>
+ㆍ6. ‘VENCORD’ 내 Vencord에서 Enable Custom CSS를 활성화한다.<br>
+ㆍ7. Quick Actions에서 Edit QuickCSS를 클릭해 이하의 구문을 삽입한다.<br>
 
-/*Change ALL Font*/
-:root {
-    --font: '경기천년제목OTF';
-}
-
-::placeholder, body, button, input, select, textarea {
-    font-family: var(--font), sans-serif;
-}
+>/*Change ALL Font*/
+>:root {
+>    --font: '경기천년제목OTF';
+>}
+>
+>::placeholder, body, button, input, select, textarea {
+>    font-family: var(--font), sans-serif;
+>}
 
 ㆍ8. 원하는 다른 폰트로도 대체할 수 있다.
