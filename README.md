@@ -5,14 +5,40 @@
 
 @KageMiyaku가 만든 테마의 뭉죽흩산 개선판
 
-# HOW TO INSTALL
-(● 0. No matter which theme you choose, you have to make sure your Discord is in Dark Mode because of limitations!)
-● 1. Install the Discord Desktop App, then the Vencord mod for it. (Not compatible with BetterDiscord for now!)<br>
-● 2. Once on Vencord, go into Settings > Plugins, and enable the "ThemeAttributes" plugin, then restart the app.<br>
-● 3. Go into Settings > Themes > Open Themes folder, and put one of these files into said folder :<br>
+
+# Disclaimer
+● This is a just variation for use within a private Discord, We are not created this work. informing all copyright @KageMiyaku.
+
+
+
+# 변경사항
+● 1. 일부 기능 로컬 패치
+● 2. 최적화
+
+
+# 필수설치
+● 1. 작업 관리자에서 디스코드를 종료한 후, ‘Vencord’를 설치한다. 
+● 2. 디스코드의 ‘사용자 설정(톱니바퀴 모양)’ 내 ‘VENCORD’ 카테고리에서 Plugins → FakeNitro와 ThemeAttributes를 활성화한다.
+● 3. 원하는 색상을 선택해 활성화한다
       <center>
-        <a href="https://github.com/MiyakuKage/discord-momotalk/releases/download/real/Momotalk.theme.css">Download MomoTalk Theme (Light Mode)</a> / 
-        <a href="https://github.com/MiyakuKage/discord-momotalk/releases/download/real/Momotalk-DarkMode.theme.css">Download MomoTalk Theme (Dark Mode)</a>
+        <a href="https://github.com/gaedesu/discord-momotalk/releases/download/real/Momotalk.theme.css">Momocord MJHS Lite</a> / 
+        <a href="https://github.com/gaedesu/discord-momotalk/releases/download/real/Momotalk-DarkMode.theme.css">Momocord MJHS Dark</a>
     </center><br>
-● 4. On Discord, press the "Load Missing Themes" button, and enable it!<br>
-● 4.5 If you want, you can edit the downloaded files to put your own colors, or even a custom background image!
+● 4. ‘VENCORD’ 카테고리 내 Themes에서 선택한 테마를 활성화한다.<br>
+
+
+# 추가 권장사항
+● 5. 경기천년제목 폰트를 OTF로 설치한다
+● 6. ‘VENCORD’ 내 Vencord에서 Enable Custom CSS를 활성화한다.
+● 7. Quick Actions에서 Edit QuickCSS를 클릭해 이하의 구문을 삽입한다.
+
+/*Change ALL Font*/
+:root {
+    --font: '경기천년제목OTF';
+}
+
+::placeholder, body, button, input, select, textarea {
+    font-family: var(--font), sans-serif;
+}
+
+● 8. 원하는 다른 폰트로도 대체할 수 있다..
