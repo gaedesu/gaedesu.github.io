@@ -3,7 +3,6 @@
 
 <img align="center" src="https://imgur.com/qfhwz1u.png">
 
-@KageMiyaku가 만든 테마의 뭉죽흩산 개선판
 
 
 # Disclaimer
