@@ -19,7 +19,7 @@
 # 필수설치
 ㆍ1. 작업 관리자에서 디스코드를 종료한 후, ‘Vencord’를 설치한다.<br>
 ㆍ2. 디스코드의 ‘사용자 설정(톱니바퀴 모양)’ 내 ‘VENCORD’ 카테고리에서 Plugins → FakeNitro와 ThemeAttributes를 활성화한다.<br>
-ㆍ3. 원하는 색상을 선택해 활성화한다.<br>
+ㆍ3. ‘VENCORD’ 카테고리 내 Themes에서 ‘Open Themes Folder’를 클릭. Theme 폴더에 원하는 버전의 모모코드 CSS를 삽입한다.<br>
       <center>
         <a href="https://github.com/gaedesu/discord-momotalk/releases/download/real/Momotalk.theme.css">Momocord MJHS Lite</a> / 
         <a href="https://github.com/gaedesu/discord-momotalk/releases/download/real/Momotalk-DarkMode.theme.css">Momocord MJHS Dark</a>
