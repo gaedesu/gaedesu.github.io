@@ -1,7 +1,7 @@
 <h1 align="center">디스코드 모모톡 테마</span></h1>
 <h3 align="center">~ 뭉죽흩산 에디션 ~</h3>
 
-<img align="center" src="https://miyakukage.github.io/discord-momotalk/misc/light.png">
+<img align="center" src="https://imgur.com/qfhwz1u.png">
 
 @KageMiyaku가 만든 테마의 뭉죽흩산 개선판
 
